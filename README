@@ -1,0 +1,8 @@
+This is just a github post of the code attached to this thread:
+http://forum.openframeworks.cc/index.php?topic=3705.5
+
+It's only here so people can compile ofxMotionTracker (https://github.com/jamezilla/ofxMotionTracker).
+
+I made some small patches to get everything to compile, but otherwise
+the code is unmodified. I believe all the credit goes to Tangible
+Interactive for this bundle.
